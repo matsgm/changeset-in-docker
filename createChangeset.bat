@@ -1,1 +1,1 @@
-docker run -v $(pwd):/app -it matsgm/changeset
+docker run -v $PWD:/app -it matsgm/changeset
