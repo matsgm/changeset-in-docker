@@ -1,1 +1,1 @@
-docker run -v %PWD%:/app -it matsgm/changeset
+docker run -v %cd%:/app -it matsgm/changeset
